@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="A1">Primera actividad</string>
+    <string name="button1">Boton1</string>
+    <string name="button2">Boton2</string>
+    <string name="A2">Segunda actividad</string>
+</resources>
