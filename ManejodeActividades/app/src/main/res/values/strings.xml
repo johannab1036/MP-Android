@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Manejo de Actividades</string>
+    <string name="btn_1_AA">Ir a la Actividad B</string>
+    <string name="btn_2_AA">Ir a la Actividad B + Toast</string>
+    <string name="btn_1_AB">Ir a la Actividad A</string>
+    <string name="btn_2_AB">Ir a la Actividad A + Toast</string>
+    <string name="toastMsgAA">Usted esta moviéndose a la Actividad B</string>
+    <string name="toastMsgAB">Usted esta moviéndose a la Actividad A</string>
 </resources>
