@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Manejo de Fragmentos</string>
+    <string name="text">Usted ha presionado el bóton y el texto es:</string>
+    <string name="sentence">Si buscas resultados distintos, no hagas siempre lo mismo.</string>
+    <string name="textBtn">Mostrar Toast</string>
+    <string name="fragmentBtn">Ir al Fragmento A</string>
+</resources>
